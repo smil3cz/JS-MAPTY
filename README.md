@@ -1,0 +1,2 @@
+# MAPTY
+Simple map planner
