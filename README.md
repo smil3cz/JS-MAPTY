@@ -1,6 +1,6 @@
 # MAPTY
 
-##website = https://maptyjme.netlify.app/
+## website = https://maptyjme.netlify.app/
 
 Simple workout planner to practice OOP in Javascript using API https://leafletjs.com/
 
